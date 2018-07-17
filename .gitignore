@@ -61,3 +61,8 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+Podfile.lock
+Pods
+paymon.xcworkspace
+paymon.xcodeproj/project.xcworkspace/xcshareddata
+paymon.xcodeproj/project.xcworkspace
